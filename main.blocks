@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="^K/J=l:fj_nM=ooUW]P.">myImage</variable></variables><block type="device_button_event" id="sbd|C]f@8V`slPn+adnk" x="273" y="-125"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="Dbd}4GE=g2([7}s95T~+"><value name="text"><shadow type="text" id="8W_hAI|ZM=*ZAQbyr-Dl"><field name="TEXT">HOLA GONZALO MEJOR PROFE DEL MUNDO</field></shadow></value></block></statement></block><block type="pxt-on-start" id="g;|ic)Bkvl@L*!KDz]|b" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="SSM/yK#wS~Hi^mf/z4*w"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        # # # # #
+        `</field></block></statement></block><block type="device_button_event" id="ME6{LU_0ZEz9Sr{^VcVe" x="224" y="69"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="+Ren!(1_04|$66-XAYHv"><field name="i">IconNames.Heart</field></block></statement></block></xml>
